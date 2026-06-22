@@ -1,1 +1,1 @@
-# ArnikoAwasiya-web
+Day 1 of building the school web 
